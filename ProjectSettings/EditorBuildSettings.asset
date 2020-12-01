@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/NivelMoon.unity
+    guid: 525f04cff88f2054eb8d6544c07ebce9
+  - enabled: 1
+    path: Assets/Scenes/NivelMinas.unity
+    guid: 3f86bfde28cb5b74893401bb75239dfa
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 5a8c9f547d9a58646bd970961631517f
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: a999a679bd86cf24b99c5fe42f4854d5
+  - enabled: 1
+    path: Assets/Scenes/MoonTransitionToMines.unity
+    guid: 8e23d29b54013094ea2bf2325d52e884
+  - enabled: 1
+    path: Assets/Scenes/MinesLVL2.unity
+    guid: 7d35221ca4d4adc47aa0ac32a4ae0499
+  - enabled: 1
+    path: Assets/Scenes/BossRoom.unity
+    guid: f573c42912c91a54493d9442db779257
+  - enabled: 1
+    path: Assets/Scenes/MinesLVL3.unity
+    guid: c572d8651f2eab54ebb21e5f28c032a9
+  - enabled: 1
+    path: Assets/Scenes/MinesTransitionToLab.unity
+    guid: dd1318cce92b6c6489846800db488f3c
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 133cfd03d696b654fa52474baf27a8e1
+  m_configObjects: {}
